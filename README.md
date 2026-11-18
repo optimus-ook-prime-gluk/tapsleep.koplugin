@@ -6,6 +6,14 @@ Tap Sleep puts your e-reader into a **"fake sleep"**: it shows one of your sleep
 
 Real sleep switches the touchscreen off, so no software can wake it with a tap. Tap Sleep keeps the device just awake enough to feel your taps, and it falls back to real sleep when the battery gets low.
 
+## Demo
+
+<p align="center">
+  <img src="docs/demo.gif" alt="Tap Sleep demo on a Kindle Paperwhite 3: long-press the corner to sleep, tap twice to wake" width="300">
+</p>
+
+Long-press the corner to sleep and a screensaver appears with the light off. Tap twice and you're back on your page. [Watch the full-quality video (MP4)](docs/demo.mp4).
+
 ## Features
 
 - Sleep with any KOReader gesture (for example, a long-press on a corner) or from the menu
